@@ -1,5 +1,5 @@
 # Jejueo-Translator
-** 제주어-표준어 양방향 번역기
+## 제주어-표준어 양방향 번역기
 * [사용 데이터 : 카카오브레인 제주어](https://www.kaggle.com/datasets/bryanpark/jit-dataset)
 
 ### seq2seq 모델
